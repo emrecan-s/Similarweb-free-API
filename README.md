@@ -11,6 +11,6 @@ Note that at the time we don't know what is the limitation of this API endpoint,
 **Is it ethical?** Why I don't pay for that? See, I provide a lot of browsing history when I'm using Similarweb addon. I want to give back something.
 
 # New feature to check the links in bulk
--Copy and paste the domain names without protocol and www and you will see the results on command line.
+-Copy and paste the domain names into links.txt file without protocol and www and you will see the results on command line.
 
 -If there is no data in the similar web database it will return 404 otherwise the json response.
