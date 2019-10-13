@@ -12,4 +12,5 @@ Note that at the time we don't know what is the limitation of this API endpoint,
 
 # New feature to check the links in bulk
 -Copy and paste the domain names without protocol and www and you will see the results on command line.
+
 -If there is no data in the similar web database it will return 404 otherwise the json response.
